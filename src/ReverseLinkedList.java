@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class ReverseLinkedList {
     public static void main(String[] args) {
         ListNode node = new ListNode(1);
